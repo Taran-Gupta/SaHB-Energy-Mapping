@@ -1,6 +1,4 @@
-week,195
-,
-Row Labels,Sum of energy_kWh
+﻿Room_ID,Energy
 200 Olsson,0
 201 Olsson,172.35
 203 Olsson,123.24
@@ -42,4 +40,3 @@ Row Labels,Sum of energy_kWh
 283 Olsson,13.04
 285 Olsson,1.53
 286 Olsson,0.15
-Grand Total,949.47
